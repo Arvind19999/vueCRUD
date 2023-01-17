@@ -1,0 +1,114 @@
+{
+  "user": [
+    {
+      "name": "Arvind",
+      "email": "Sha.arvind99@gmail.com",
+      "password": "1234567890",
+      "id": 1
+    },
+    {
+      "name": "john",
+      "email": "Sha.john@gmail.com",
+      "password": "12345678901",
+      "id": 2
+    },
+    {
+      "name": "jack",
+      "email": "Sha.jack@gmail.com",
+      "password": "123456789012",
+      "id": 3
+    },
+    {
+      "name": "rami",
+      "email": "rami@gamil.com",
+      "password": "rami@123",
+      "id": 4
+    },
+    {
+      "name": "joman",
+      "email": "joman@gmail.com",
+      "password": "12345",
+      "id": 5
+    },
+    {
+      "name": "samiya",
+      "email": "samiya@gmail.com",
+      "password": "12234",
+      "id": 6
+    },
+    {
+      "name": "sohil",
+      "email": "sohil@gmail.com",
+      "password": "12345",
+      "id": 7
+    },
+    {
+      "name": "samil",
+      "email": "samil@gmail.com",
+      "password": "232132",
+      "id": 8
+    },
+    {
+      "name": "hithere",
+      "email": "hithere@gmail.com",
+      "password": "hithere@123",
+      "id": 9
+    },
+    {
+      "name": "hellothere",
+      "email": "hellothere@gmail.com",
+      "password": "1234567890",
+      "id": 10
+    },
+    {
+      "name": "Testing",
+      "email": "testing123@gmail.com",
+      "password": "test@123",
+      "id": 11
+    },
+    {
+      "name": "Testing",
+      "email": "testing123@gmail.com",
+      "password": "test@123",
+      "id": 12
+    },
+    {
+      "name": "rami",
+      "email": "rami@gmail.com",
+      "password": "12345",
+      "id": 13
+    },
+    {
+      "name": "samika",
+      "email": "samika@gmail.com",
+      "password": "1234567890",
+      "id": 14
+    },
+    {
+      "name": "bruse",
+      "email": "bruce@gmail.com",
+      "password": "1234567890",
+      "id": 15
+    }
+  ],
+  "resturant": [
+    {
+      "name": "KFCss",
+      "address": "KTM",
+      "contact": "9808594432",
+      "id": 1
+    },
+    {
+      "id": 2,
+      "name": "Migdonals",
+      "address": "PKR",
+      "contact": "9808594433"
+    },
+    {
+      "name": "StarBuck",
+      "address": "BRT",
+      "contact": "9808593382",
+      "id": 3
+    }
+  ]
+}
